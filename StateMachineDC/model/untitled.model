@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ASCII"?>
+<SimplStateMachineDC:StateMachine xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:SimplStateMachineDC="http://SimplStateMachineDC.fr" xmi:id="_-d5V4N7JEeeL5bGuCCXiMg">
+  <states xmi:id="_A19ZcN7KEeeL5bGuCCXiMg" name="one" Ord="" OrdIf=""/>
+  <states xsi:type="SimplStateMachineDC:CompositeState" xmi:id="_IZnYIN7KEeeL5bGuCCXiMg" name="one">
+    <states xsi:type="SimplStateMachineDC:InitialState" xmi:id="_K20aYN7KEeeL5bGuCCXiMg" name="start"/>
+    <states xmi:id="_P5Y8YN7KEeeL5bGuCCXiMg" name="s1"/>
+    <states xmi:id="_Ra2IEN7KEeeL5bGuCCXiMg" name="s2"/>
+  </states>
+  <states xmi:id="_TZ1kUN7KEeeL5bGuCCXiMg" name="two"/>
+</SimplStateMachineDC:StateMachine>
